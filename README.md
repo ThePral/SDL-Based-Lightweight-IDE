@@ -80,6 +80,7 @@ brew install sdl2 sdl2_ttf
 ```bash
 git clone https://github.com/ThePral/SDL-Based-Lightweight-IDE.git
 cd SDL-Based-Lightweight-IDE
+cd src
 ```
 
 ##
