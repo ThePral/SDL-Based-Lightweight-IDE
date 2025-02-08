@@ -34,7 +34,7 @@ A simple **Integrated Development Environment (IDE)** built using **C++, SDL2, a
 ---
 
 ## Releases 🚀
-Find stable versions of this project in the **[Releases](https://github.com/your-username/your-repo/releases)** tab.
+Find stable versions of this project in the **[Releases](https://github.com/ThePral/SDL-Based-Lightweight-IDE/releases)** tab.
 
 - Download precompiled binaries
 - View release notes and version history
