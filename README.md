@@ -86,7 +86,7 @@ g++ main.cpp -o sdl-ide -lSDL2 -lSDL2_ttf
 
 | Dark Mode | Light Mode |
 |-----------|-----------|
-| ![Dark Mode](screenshots/dark-mode.png) | ![Light Mode](screenshots/light-mode.png) |
+| ![Dark Mode](Screenshots/dark_mode.png) | ![Light Mode](Screenshots/light_mode.png) |
 
 ---
 
