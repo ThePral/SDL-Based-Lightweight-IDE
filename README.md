@@ -94,7 +94,7 @@ g++ main.cpp -o sdl-ide -lSDL2 -lSDL2_ttf
 
 Contributions are welcome! Feel free to:  
 - **Fork the repo** and submit a PR.  
-- **Report issues** in the [Issues](https://github.com/your-username/sdl-ide/issues) tab.  
+- **Report issues** in the [Issues](https://github.com/ThePral/SDL-Based-Lightweight-IDE/issues) tab.  
 
 ---
 
