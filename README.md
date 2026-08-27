@@ -122,6 +122,14 @@ run
 
 ---
 
+## Screenshots 🖥️
+
+| Dark Mode | Light Mode |
+|-----------|-----------|
+| ![Dark Mode](Screenshots/dark_mode.png) | ![Light Mode](Screenshots/light_mode.png) |
+
+---
+
 ## Contributing 🛠️
 
 Contributions are welcome! Feel free to:  
